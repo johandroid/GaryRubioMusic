@@ -30,7 +30,7 @@ class Tempo
 
 
     /**
-     * @ManyToMany(targetEntity="Cancion", mappedBy="tempos")
+     * @ORM\ManyToMany(targetEntity="Cancion", mappedBy="tempos")
      */
     private $canciones;
 

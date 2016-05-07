@@ -29,7 +29,7 @@ class Genero
     private $genero;
 
     /**
-     * @ManyToMany(targetEntity="Cancion", mappedBy="generos")
+     * @ORM\ManyToMany(targetEntity="Cancion", mappedBy="generos")
      */
     private $canciones;
 

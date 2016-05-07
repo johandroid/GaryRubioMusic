@@ -52,7 +52,7 @@ class Cancion
 /*           <Relaciones> */
 
     /*
-     * @ManyToMany(targetEntity="Genero", inversedBy="canciones")
+     * @ORM\ManyToMany(targetEntity="Genero", inversedBy="canciones")
      * @JoinTable(name="canciones_generos",
      *      joinColumns={@JoinColumn(name="cancion_id", referencedColumnName="id")},
      *      inverseJoinColumns={@JoinColumn(name="genero_id", referencedColumnName="id")}

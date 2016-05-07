@@ -32,7 +32,7 @@ class Duracion
 
 
     /**
-     * @ManyToMany(targetEntity="Cancion", mappedBy="duracion")
+     * @ORM\ManyToMany(targetEntity="Cancion", mappedBy="duracion")
      */
     private $canciones;
 

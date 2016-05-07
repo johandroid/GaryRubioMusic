@@ -30,7 +30,7 @@ class Mood
 
 
     /**
-     * @ManyToMany(targetEntity="Cancion", mappedBy="moods")
+     * @ORM\ManyToMany(targetEntity="Cancion", mappedBy="moods")
      */
     private $canciones;
 
