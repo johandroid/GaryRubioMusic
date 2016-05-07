@@ -3,6 +3,8 @@
 namespace GaryBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
+use Doctrine\Common\Collections\ArrayCollection;
+
 
 /**
  * Cancion
@@ -52,7 +54,7 @@ class Cancion
 /*           <Relaciones> */
 
     /*
-     * @ORM\ManyToMany(targetEntity="Genero", inversedBy="canciones")
+     * @ManyToMany(targetEntity="Genero", inversedBy="canciones")
      * @JoinTable(name="canciones_generos",
      *      joinColumns={@JoinColumn(name="cancion_id", referencedColumnName="id")},
      *      inverseJoinColumns={@JoinColumn(name="genero_id", referencedColumnName="id")}
@@ -68,11 +70,6 @@ class Cancion
      * )
      */
     private $moods;
-
-    /*
-     * @ManyToMany(targetEntity="Tempo")
-     * @JoinTable(name="canciones_tempos")
-     */
 
     /*
      * @ManyToMany(targetEntity="Tempo", inversedBy="canciones")
@@ -94,10 +91,10 @@ class Cancion
     /*</Relaciones>*/
 
     public function __construct() {
-        $this->generos = new \Doctrine\Common\Collections\ArrayCollection();
-        $this->moods= new \Doctrine\Common\Collections\ArrayCollection();
-        $this->tempos= new \Doctrine\Common\Collections\ArrayCollection();
-        $this->duracion= new \Doctrine\Common\Collections\ArrayCollection();
+        $this->generos = new ArrayCollection();
+        $this->moods= new ArrayCollection();
+        $this->tempos= new ArrayCollection();
+        $this->duracion= new ArrayCollection();
     }
 
 
