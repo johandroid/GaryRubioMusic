@@ -51,44 +51,41 @@ class Cancion
      */
     private $descripcion;
 
-/*           <Relaciones> */
-
     /*
-     * @ManyToMany(targetEntity="Genero", inversedBy="canciones")
-     * @JoinTable(name="canciones_generos",
-     *      joinColumns={@JoinColumn(name="cancion_id", referencedColumnName="id")},
-     *      inverseJoinColumns={@JoinColumn(name="genero_id", referencedColumnName="id")}
+     * @ORM\ManyToMany(targetEntity="Genero", inversedBy="canciones")
+     * @ORM\JoinTable(name="canciones_generos",
+     *      joinColumns={@ORM\JoinColumn(name="cancion_id", referencedColumnName="id")},
+     *      inverseJoinColumns={@ORM\JoinColumn(name="genero_id", referencedColumnName="id")}
      * )
      */
     private $generos;
 
     /*
-     * @ManyToMany(targetEntity="Mood", inversedBy="canciones")
-     * @JoinTable(name="canciones_moods",
-     *      joinColumns={@JoinColumn(name="cancion_id", referencedColumnName="id")},
-     *      inverseJoinColumns={@JoinColumn(name="mood_id", referencedColumnName="id")}
+     * @ORM\ManyToMany(targetEntity="Mood", inversedBy="canciones")
+     * @ORM\JoinTable(name="canciones_moods",
+     *      joinColumns={@ORM\JoinColumn(name="cancion_id", referencedColumnName="id")},
+     *      inverseJoinColumns={@ORM\JoinColumn(name="mood_id", referencedColumnName="id")}
      * )
      */
     private $moods;
 
     /*
-     * @ManyToMany(targetEntity="Tempo", inversedBy="canciones")
-     * @JoinTable(name="canciones_tempos",
-     *      joinColumns={@JoinColumn(name="cancion_id", referencedColumnName="id")},
-     *      inverseJoinColumns={@JoinColumn(name="tempo_id", referencedColumnName="id")}
+     * @ORM\ManyToMany(targetEntity="Tempo", inversedBy="canciones")
+     * @ORM\JoinTable(name="canciones_tempos",
+     *      joinColumns={@ORM\JoinColumn(name="cancion_id", referencedColumnName="id")},
+     *      inverseJoinColumns={@ORM\JoinColumn(name="tempo_id", referencedColumnName="id")}
      * )
      */
     private $tempos;
 
     /*
-     * @ManyToMany(targetEntity="Duracion", inversedBy="canciones")
-     * @JoinTable(name="canciones_duraciones",
-     *      joinColumns={@JoinColumn(name="cancion_id", referencedColumnName="id")},
-     *      inverseJoinColumns={@JoinColumn(name="duracion_id", referencedColumnName="id")}
+     * @ORM\ManyToMany(targetEntity="Duracion", inversedBy="canciones")
+     * @ORM\JoinTable(name="canciones_duraciones",
+     *      joinColumns={@ORM\JoinColumn(name="cancion_id", referencedColumnName="id")},
+     *      inverseJoinColumns={@ORM\JoinColumn(name="duracion_id", referencedColumnName="id")}
      * )
      */
     private $duracion;
-    /*</Relaciones>*/
 
     public function __construct() {
         $this->generos = new ArrayCollection();
