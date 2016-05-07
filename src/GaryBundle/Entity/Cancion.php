@@ -52,14 +52,20 @@ class Cancion
 /*           <Relaciones> */
 
     /*
-     * @ManyToMany(targetEntity="Genero")
-     * @JoinTable(name="canciones_generos")
-    */
+     * @ManyToMany(targetEntity="Genero", inversedBy="canciones")
+     * @JoinTable(name="canciones_generos",
+     *      joinColumns={@JoinColumn(name="cancion_id", referencedColumnName="id")},
+     *      inverseJoinColumns={@JoinColumn(name="genero_id", referencedColumnName="id")}
+     * )
+     */
     private $generos;
 
     /*
-     * @ManyToMany(targetEntity="Mood")
-     * @JoinTable(name="canciones_moods")
+     * @ManyToMany(targetEntity="Mood", inversedBy="canciones")
+     * @JoinTable(name="canciones_moods",
+     *      joinColumns={@JoinColumn(name="cancion_id", referencedColumnName="id")},
+     *      inverseJoinColumns={@JoinColumn(name="mood_id", referencedColumnName="id")}
+     * )
      */
     private $moods;
 
@@ -67,15 +73,32 @@ class Cancion
      * @ManyToMany(targetEntity="Tempo")
      * @JoinTable(name="canciones_tempos")
      */
+
+    /*
+     * @ManyToMany(targetEntity="Tempo", inversedBy="canciones")
+     * @JoinTable(name="canciones_tempos",
+     *      joinColumns={@JoinColumn(name="cancion_id", referencedColumnName="id")},
+     *      inverseJoinColumns={@JoinColumn(name="tempo_id", referencedColumnName="id")}
+     * )
+     */
     private $tempos;
 
     /*
-     * @ManyToMany(targetEntity="Duracion", inversedBy="duracion")
-     * @JoinTable(name="canciones_duracion")
+     * @ManyToMany(targetEntity="Duracion", inversedBy="canciones")
+     * @JoinTable(name="canciones_duraciones",
+     *      joinColumns={@JoinColumn(name="cancion_id", referencedColumnName="id")},
+     *      inverseJoinColumns={@JoinColumn(name="duracion_id", referencedColumnName="id")}
+     * )
      */
     private $duracion;
     /*</Relaciones>*/
 
+    public function __construct() {
+        $this->generos = new \Doctrine\Common\Collections\ArrayCollection();
+        $this->moods= new \Doctrine\Common\Collections\ArrayCollection();
+        $this->tempos= new \Doctrine\Common\Collections\ArrayCollection();
+        $this->duracion= new \Doctrine\Common\Collections\ArrayCollection();
+    }
 
 
     /**

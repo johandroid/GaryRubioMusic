@@ -30,9 +30,13 @@ class Mood
 
 
     /**
-     * @ManyToMany(targetEntity="Cancion")
+     * @ManyToMany(targetEntity="Cancion", mappedBy="moods")
      */
     private $canciones;
+
+    public function __construct() {
+        $this->mood = new \Doctrine\Common\Collections\ArrayCollection();
+    }
 
     /**
      * Get id

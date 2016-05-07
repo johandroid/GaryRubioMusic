@@ -28,11 +28,14 @@ class Genero
      */
     private $genero;
 
-
     /**
-     * @ManyToMany(targetEntity="Cancion")
+     * @ManyToMany(targetEntity="Cancion", mappedBy="generos")
      */
     private $canciones;
+
+    public function __construct() {
+        $this->canciones = new \Doctrine\Common\Collections\ArrayCollection();
+    }
 
     /**
      * Get id

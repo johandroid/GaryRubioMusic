@@ -2,57 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fce2dfac-a342-49b1-91ab-208b86e9559d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/clock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/flag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/hourglass.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/logo@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/mail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/preloader.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/img/clock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/img/flag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/img/hourglass.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/img/logo@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/img/mail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/img/preloader.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/video/hue.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/video/hue.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/video/hue.ogv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/video/hue.webm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/clock.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/flag.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/hourglass.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/mail.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/css/jquery.mmenu.all.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/img/clock.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/img/flag.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/img/hourglass.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/img/mail.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/js/jquery.fs.wallpaper.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/js/jquery.mmenu.min.all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/js/modernizr.custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/js/retina.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/js/scripts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/js/snap.svg-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/js/svgicons-config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/js/svgicons.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/js/wow.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GaryBundle/Entity/Cancion.php" afterPath="$PROJECT_DIR$/src/GaryBundle/Entity/Cancion.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GaryBundle/Entity/Duracion.php" afterPath="$PROJECT_DIR$/src/GaryBundle/Entity/Duracion.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GaryBundle/Entity/Genero.php" afterPath="$PROJECT_DIR$/src/GaryBundle/Entity/Genero.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GaryBundle/Entity/Mood.php" afterPath="$PROJECT_DIR$/src/GaryBundle/Entity/Mood.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GaryBundle/Entity/Tempo.php" afterPath="$PROJECT_DIR$/src/GaryBundle/Entity/Tempo.php" />
     </list>
     <ignored path="gary.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -111,41 +65,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Genero.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GaryBundle/Entity/Genero.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Mood.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GaryBundle/Entity/Mood.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tempo.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GaryBundle/Entity/Tempo.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Cancion.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GaryBundle/Entity/Cancion.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1095">
-              <caret line="73" column="44" selection-start-line="73" selection-start-column="44" selection-end-line="73" selection-end-column="44" />
+            <state relative-caret-position="600">
+              <caret line="99" column="76" selection-start-line="99" selection-start-column="76" selection-end-line="99" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Genero.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GaryBundle/Entity/Genero.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="36" column="52" selection-start-line="36" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -154,21 +88,11 @@
       <file leaf-file-name="Duracion.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/GaryBundle/Entity/Duracion.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+            <state relative-caret-position="615">
+              <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
               <folding>
                 <element signature="e#37#69#0#PHP" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/public/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6180">
-              <caret line="412" column="6" selection-start-line="412" selection-start-column="0" selection-end-line="412" selection-end-column="6" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -357,6 +281,28 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Repository" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gary" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gary" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GaryBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Entity" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -487,12 +433,12 @@
       <workItem from="1459340341371" duration="3686000" />
       <workItem from="1459456890593" duration="55000" />
       <workItem from="1459457140027" duration="2772000" />
-      <workItem from="1462617549720" duration="119000" />
+      <workItem from="1462617549720" duration="2606000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16251000" />
+    <option name="totallyTimeSpent" value="18738000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1920" height="1056" extended-state="6" />
@@ -914,42 +860,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GaryBundle/Entity/Genero.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GaryBundle/Entity/Mood.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        <state relative-caret-position="555">
+          <caret line="37" column="73" selection-start-line="37" selection-start-column="73" selection-end-line="37" selection-end-column="73" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GaryBundle/Entity/Tempo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        <state relative-caret-position="480">
+          <caret line="32" column="61" selection-start-line="32" selection-start-column="61" selection-end-line="32" selection-end-column="61" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GaryBundle/Entity/Cancion.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1095">
-          <caret line="73" column="44" selection-start-line="73" selection-start-column="44" selection-end-line="73" selection-end-column="44" />
+        <state relative-caret-position="600">
+          <caret line="99" column="76" selection-start-line="99" selection-start-column="76" selection-end-line="99" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GaryBundle/Entity/Genero.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="36" column="52" selection-start-line="36" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GaryBundle/Entity/Duracion.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        <state relative-caret-position="615">
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
           <folding>
             <element signature="e#37#69#0#PHP" expanded="true" />
           </folding>

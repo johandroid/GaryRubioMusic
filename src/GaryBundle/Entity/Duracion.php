@@ -38,7 +38,7 @@ class Duracion
 
     public function __construct()
     {
-        $this->canciones= new ArrayCollection();
+        $this->canciones = new \Doctrine\Common\Collections\ArrayCollection();
     }
 
     /**
