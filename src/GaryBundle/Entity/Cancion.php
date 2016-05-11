@@ -34,6 +34,7 @@ class Cancion
      * @var string
      *
      * @ORM\Column(name="autor", type="string", length=255)
+     * 
      */
     private $autor;
 

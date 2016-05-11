@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="e8e63602-f863-447c-a3fd-6817d99583dd" name="Gary" url="http://cs.garyrubiomusic.com/">
-        <fileTransfer host="cs.garyrubiomusic.com" port="22" accessType="SFTP" password="dfe9dfcbdfdedf9adfe6dfeedfc9dfeddfc6dfe0df98dfda" username="cuespotter">
+        <fileTransfer host="cs.garyrubiomusic.com" port="22" rootFolder="/home/cuespotter" accessType="SFTP" password="dfe9dfcbdfdedf9adfe6dfeedfc9dfeddfc6dfe0df98dfda" username="cuespotter">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>

@@ -1,0 +1,12 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: mysql.garyrubiomusic.com
+    database_port: null
+    database_name: garyrubiomusic_com_1
+    database_user: cuespotter
+    database_password: Cat0LDcGlJ2p
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    secret: 382b8635351b97290161c878a5fd9f9fe9685097
