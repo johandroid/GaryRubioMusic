@@ -78,3 +78,22 @@ fos_user:
 
 vich_uploader:
     db_driver: orm # or mongodb or propel or phpcr
+    mappings:
+        musica_sonido:
+            uri_prefix:         /sonidos/pistas
+            upload_destination: %kernel.root_dir%/../web/sonidos/pistas
+            inject_on_load:     false
+            delete_on_update:   true
+            delete_on_remove:   true
+        musica_thumbnail:
+            uri_prefix:         /imagenes/thumbnail/pistas
+            upload_destination: %kernel.root_dir%/../web/img/thumbnails/pistas
+            inject_on_load:     false
+            delete_on_update:   true
+            delete_on_remove:   true
+        musica_preview:
+            uri_prefix:         /sonidos/previews/pistas
+            upload_destination: %kernel.root_dir%/../web/sonidos/previews/pistas
+            inject_on_load:     false
+            delete_on_update:   true
+            delete_on_remove:   true
