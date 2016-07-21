@@ -1,8 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fce2dfac-a342-49b1-91ab-208b86e9559d" name="Default" comment="">
+    <list default="true" id="fce2dfac-a342-49b1-91ab-208b86e9559d" name="Default" comment="Haciendo las cosas para el vichuploader">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/.gitkeep" afterPath="$PROJECT_DIR$/var/cache/.gitkeep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/logs/.gitkeep" afterPath="$PROJECT_DIR$/var/logs/.gitkeep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/sessions/.gitkeep" afterPath="$PROJECT_DIR$/var/sessions/.gitkeep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/apple-touch-icon.png" afterPath="$PROJECT_DIR$/web/apple-touch-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/favicon.ico" afterPath="$PROJECT_DIR$/web/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/img/clock.png" afterPath="$PROJECT_DIR$/web/img/clock.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/img/flag.png" afterPath="$PROJECT_DIR$/web/img/flag.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/img/hourglass.png" afterPath="$PROJECT_DIR$/web/img/hourglass.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/img/logo.png" afterPath="$PROJECT_DIR$/web/img/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/img/logo@2x.png" afterPath="$PROJECT_DIR$/web/img/logo@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/img/mail.png" afterPath="$PROJECT_DIR$/web/img/mail.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/img/preloader.png" afterPath="$PROJECT_DIR$/web/img/preloader.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/web/public/fonts/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/web/public/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/web/public/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/web/public/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/img/clock.png" afterPath="$PROJECT_DIR$/web/public/img/clock.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/img/flag.png" afterPath="$PROJECT_DIR$/web/public/img/flag.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/img/hourglass.png" afterPath="$PROJECT_DIR$/web/public/img/hourglass.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/img/logo.png" afterPath="$PROJECT_DIR$/web/public/img/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/img/logo@2x.png" afterPath="$PROJECT_DIR$/web/public/img/logo@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/img/mail.png" afterPath="$PROJECT_DIR$/web/public/img/mail.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/img/preloader.png" afterPath="$PROJECT_DIR$/web/public/img/preloader.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/video/hue.jpg" afterPath="$PROJECT_DIR$/web/public/video/hue.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/video/hue.mp4" afterPath="$PROJECT_DIR$/web/public/video/hue.mp4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/video/hue.ogv" afterPath="$PROJECT_DIR$/web/public/video/hue.ogv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/video/hue.webm" afterPath="$PROJECT_DIR$/web/public/video/hue.webm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gary.iml" afterPath="$PROJECT_DIR$/.idea/gary.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/webServers.xml" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/.htaccess" afterPath="$PROJECT_DIR$/app/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/AppCache.php" afterPath="$PROJECT_DIR$/app/AppCache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/AppKernel.php" afterPath="$PROJECT_DIR$/app/AppKernel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/base.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/default/index.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/default/index.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/autoload.php" afterPath="$PROJECT_DIR$/app/autoload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config.yml" afterPath="$PROJECT_DIR$/app/config/config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config_dev.yml" afterPath="$PROJECT_DIR$/app/config/config_dev.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config_prod.yml" afterPath="$PROJECT_DIR$/app/config/config_prod.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config_test.yml" afterPath="$PROJECT_DIR$/app/config/config_test.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/parameters.yml.dist" afterPath="$PROJECT_DIR$/app/config/parameters.yml.dist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/parametersGary.yml" afterPath="$PROJECT_DIR$/app/config/parametersGary.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/parametersLocal.yml" afterPath="$PROJECT_DIR$/app/config/parametersLocal.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/routing.yml" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/routing_dev.yml" afterPath="$PROJECT_DIR$/app/config/routing_dev.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/security.yml" afterPath="$PROJECT_DIR$/app/config/security.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/services.yml" afterPath="$PROJECT_DIR$/app/config/services.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phpunit.xml.dist" afterPath="$PROJECT_DIR$/phpunit.xml.dist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/.htaccess" afterPath="$PROJECT_DIR$/src/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AppBundle/AppBundle.php" afterPath="$PROJECT_DIR$/src/AppBundle/AppBundle.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GaryBundle/Controller/BackendController.php" afterPath="$PROJECT_DIR$/src/GaryBundle/Controller/BackendController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GaryBundle/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/src/GaryBundle/Controller/DefaultController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GaryBundle/Entity/Cancion.php" afterPath="$PROJECT_DIR$/src/GaryBundle/Entity/Cancion.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GaryBundle/Entity/Duracion.php" afterPath="$PROJECT_DIR$/src/GaryBundle/Entity/Duracion.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GaryBundle/Entity/Genero.php" afterPath="$PROJECT_DIR$/src/GaryBundle/Entity/Genero.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GaryBundle/Entity/Mood.php" afterPath="$PROJECT_DIR$/src/GaryBundle/Entity/Mood.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GaryBundle/Entity/Tempo.php" afterPath="$PROJECT_DIR$/src/GaryBundle/Entity/Tempo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GaryBundle/Entity/User.php" afterPath="$PROJECT_DIR$/src/GaryBundle/Entity/User.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GaryBundle/GaryBundle.php" afterPath="$PROJECT_DIR$/src/GaryBundle/GaryBundle.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GaryBundle/Repository/CancionRepository.php" afterPath="$PROJECT_DIR$/src/GaryBundle/Repository/CancionRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GaryBundle/Repository/DuracionRepository.php" afterPath="$PROJECT_DIR$/src/GaryBundle/Repository/DuracionRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GaryBundle/Repository/GeneroRepository.php" afterPath="$PROJECT_DIR$/src/GaryBundle/Repository/GeneroRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GaryBundle/Repository/MoodRepository.php" afterPath="$PROJECT_DIR$/src/GaryBundle/Repository/MoodRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GaryBundle/Repository/TempoRepository.php" afterPath="$PROJECT_DIR$/src/GaryBundle/Repository/TempoRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GaryBundle/Resources/config/services.yml" afterPath="$PROJECT_DIR$/src/GaryBundle/Resources/config/services.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GaryBundle/Resources/views/Admin/index.html.twig" afterPath="$PROJECT_DIR$/src/GaryBundle/Resources/views/Admin/index.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GaryBundle/Resources/views/Default/index.html.twig" afterPath="$PROJECT_DIR$/src/GaryBundle/Resources/views/Default/index.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GaryBundle/Tests/Controller/DefaultControllerTest.php" afterPath="$PROJECT_DIR$/src/GaryBundle/Tests/Controller/DefaultControllerTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/AppBundle/Controller/DefaultControllerTest.php" afterPath="$PROJECT_DIR$/tests/AppBundle/Controller/DefaultControllerTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/SymfonyRequirements.php" afterPath="$PROJECT_DIR$/var/SymfonyRequirements.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/.htaccess" afterPath="$PROJECT_DIR$/web/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app.php" afterPath="$PROJECT_DIR$/web/app.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app_dev.php" afterPath="$PROJECT_DIR$/web/app_dev.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/config.php" afterPath="$PROJECT_DIR$/web/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/img/clock.svg" afterPath="$PROJECT_DIR$/web/img/clock.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/img/flag.svg" afterPath="$PROJECT_DIR$/web/img/flag.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/img/hourglass.svg" afterPath="$PROJECT_DIR$/web/img/hourglass.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/img/mail.svg" afterPath="$PROJECT_DIR$/web/img/mail.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/css/animate.css" afterPath="$PROJECT_DIR$/web/public/css/animate.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/web/public/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/web/public/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/css/jquery.mmenu.all.css" afterPath="$PROJECT_DIR$/web/public/css/jquery.mmenu.all.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/css/style.css" afterPath="$PROJECT_DIR$/web/public/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/web/public/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/img/clock.svg" afterPath="$PROJECT_DIR$/web/public/img/clock.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/img/flag.svg" afterPath="$PROJECT_DIR$/web/public/img/flag.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/img/hourglass.svg" afterPath="$PROJECT_DIR$/web/public/img/hourglass.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/img/mail.svg" afterPath="$PROJECT_DIR$/web/public/img/mail.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/web/public/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/js/jquery.fs.wallpaper.min.js" afterPath="$PROJECT_DIR$/web/public/js/jquery.fs.wallpaper.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/js/jquery.js" afterPath="$PROJECT_DIR$/web/public/js/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/js/jquery.mmenu.min.all.js" afterPath="$PROJECT_DIR$/web/public/js/jquery.mmenu.min.all.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/js/modernizr.custom.js" afterPath="$PROJECT_DIR$/web/public/js/modernizr.custom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/js/retina.js" afterPath="$PROJECT_DIR$/web/public/js/retina.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/js/scripts.js" afterPath="$PROJECT_DIR$/web/public/js/scripts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/js/snap.svg-min.js" afterPath="$PROJECT_DIR$/web/public/js/snap.svg-min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/js/svgicons-config.js" afterPath="$PROJECT_DIR$/web/public/js/svgicons-config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/js/svgicons.js" afterPath="$PROJECT_DIR$/web/public/js/svgicons.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/js/wow.js" afterPath="$PROJECT_DIR$/web/public/js/wow.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/robots.txt" afterPath="$PROJECT_DIR$/web/robots.txt" />
     </list>
     <ignored path="gary.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -14,7 +127,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -24,6 +136,7 @@
     <option name="SORT_POSITIONED" value="false" />
     <option name="SHOW_TABLE_DETAILS" value="true" />
     <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
     <PATH>
       <PATH_ELEMENT>
         <option name="myItemId" />
@@ -44,8 +157,8 @@
       <file leaf-file-name="Cancion.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GaryBundle/Entity/Cancion.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1815">
-              <caret line="124" column="0" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+            <state relative-caret-position="2505">
+              <caret line="167" column="5" selection-start-line="167" selection-start-column="5" selection-end-line="167" selection-end-column="5" />
               <folding>
                 <element signature="e#37#69#0#PHP" expanded="true" />
               </folding>
@@ -53,25 +166,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gary.cancion" pinned="false" current-in-tab="false">
-        <entry file="dbDummy://dbtable:/e714f2af/6b7bbccc-eccc-4a32-839c-8d1407428fb4/gary.cancion">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/config/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1485">
+            <state relative-caret-position="859">
               <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
               <folding />
             </state>
@@ -88,10 +186,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GaryBundle/Entity/User.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
+            <state relative-caret-position="480">
               <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
               <folding>
                 <element signature="e#155#197#0#PHP" expanded="true" />
@@ -123,6 +221,11 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Johan Alexis Duque Cadena &lt;johan.duque@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -190,6 +293,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -205,6 +309,60 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="gary" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gary" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gary" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gary" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gary" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GaryBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gary" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gary" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GaryBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Entity" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -242,7 +400,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -254,7 +411,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/config/parameters.yml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -340,12 +497,20 @@
       <workItem from="1464593285878" duration="616000" />
       <workItem from="1464676897710" duration="7000" />
       <workItem from="1465131474409" duration="2914000" />
-      <workItem from="1465148941635" duration="529000" />
+      <workItem from="1465148941635" duration="1149000" />
+      <workItem from="1465198666484" duration="177000" />
+      <workItem from="1465198857244" duration="742000" />
+      <workItem from="1465282923833" duration="1419000" />
+      <workItem from="1465375875226" duration="625000" />
+      <workItem from="1465459173312" duration="803000" />
+      <workItem from="1465545158054" duration="730000" />
+      <workItem from="1469087153380" duration="114000" />
+      <workItem from="1469087411689" duration="643000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93456000" />
+    <option name="totallyTimeSpent" value="99329000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -361,13 +526,14 @@
     <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924226" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24226254" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26414087" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25667024" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14407684" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23541667" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2348643" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -391,6 +557,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Haciendo las cosas para el vichuploader" />
+    <option name="LAST_COMMIT_MESSAGE" value="Haciendo las cosas para el vichuploader" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -479,61 +649,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6b7bbccc-eccc-4a32-839c-8d1407428fb4/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/e714f2af/6b7bbccc-eccc-4a32-839c-8d1407428fb4/gary.tempo">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/e714f2af/6b7bbccc-eccc-4a32-839c-8d1407428fb4/gary.mood">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/e714f2af/6b7bbccc-eccc-4a32-839c-8d1407428fb4/gary.genero">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/e714f2af/6b7bbccc-eccc-4a32-839c-8d1407428fb4/gary.duracion">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6b7bbccc-eccc-4a32-839c-8d1407428fb4/console.sql" />
+    <entry file="dbDummy://dbtable:/e714f2af/6b7bbccc-eccc-4a32-839c-8d1407428fb4/gary.tempo" />
+    <entry file="dbDummy://dbtable:/e714f2af/6b7bbccc-eccc-4a32-839c-8d1407428fb4/gary.mood" />
+    <entry file="dbDummy://dbtable:/e714f2af/6b7bbccc-eccc-4a32-839c-8d1407428fb4/gary.genero" />
+    <entry file="dbDummy://dbtable:/e714f2af/6b7bbccc-eccc-4a32-839c-8d1407428fb4/gary.duracion" />
     <entry file="file://$PROJECT_DIR$/src/GaryBundle/Repository/CancionRepository.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -632,18 +752,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="dbDummy://dbtable:/e714f2af/6b7bbccc-eccc-4a32-839c-8d1407428fb4/gary.canciones_duraciones">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="dbDummy://dbtable:/e714f2af/6b7bbccc-eccc-4a32-839c-8d1407428fb4/gary.canciones_duraciones" />
     <entry file="file://$PROJECT_DIR$/src/GaryBundle/Entity/Duracion.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
@@ -700,18 +809,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="dbDummy://dbtable:/e714f2af/6b7bbccc-eccc-4a32-839c-8d1407428fb4/gary.fos_user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="dbDummy://dbtable:/e714f2af/6b7bbccc-eccc-4a32-839c-8d1407428fb4/gary.fos_user" />
     <entry file="file://$PROJECT_DIR$/src/GaryBundle/Resources/views/Admin/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -719,37 +817,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="dbDummy://dbtable:/e714f2af/6b7bbccc-eccc-4a32-839c-8d1407428fb4/gary.cancion">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GaryBundle/Entity/Cancion.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1815">
-          <caret line="124" column="0" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
-          <folding>
-            <element signature="e#37#69#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1485">
-          <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="dbDummy://dbtable:/e714f2af/6b7bbccc-eccc-4a32-839c-8d1407428fb4/gary.cancion" />
     <entry file="file://$PROJECT_DIR$/composer.lock">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="489">
@@ -764,6 +832,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/GaryBundle/Entity/Cancion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2505">
+          <caret line="167" column="5" selection-start-line="167" selection-start-column="5" selection-end-line="167" selection-end-column="5" />
+          <folding>
+            <element signature="e#37#69#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -774,7 +852,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GaryBundle/Entity/User.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
+        <state relative-caret-position="480">
           <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
           <folding>
             <element signature="e#155#197#0#PHP" expanded="true" />
@@ -794,6 +872,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="859">
+          <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
           <folding />
         </state>
       </provider>
