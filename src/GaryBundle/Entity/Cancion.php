@@ -4,7 +4,8 @@ namespace GaryBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
 use Doctrine\Common\Collections\ArrayCollection;
-
+use Symfony\Component\HttpFoundation\File\File;
+use Vich\UploaderBundle\Mapping\Annotation as Vich;
 
 /**
  * Cancion
@@ -95,6 +96,210 @@ class Cancion
         $this->duracion= new ArrayCollection();
     }
 
+    // <VichUploader>
+
+    /**
+     * NOTE: This is not a mapped field of entity metadata, just a simple property.
+     *
+     * @Vich\UploadableField(mapping="musica_sonido", fileNameProperty="sonidoName")
+     *
+     * @var File
+     */
+    private $sonidoFile;
+
+    /**
+     * @ORM\Column(type="string", length=255)
+     *
+     * @var string
+     */
+    private $sonidoName;
+
+    /**
+     * NOTE: This is not a mapped field of entity metadata, just a simple property.
+     *
+     * @Vich\UploadableField(mapping="musica_thumbnail", fileNameProperty="thumbnailName")
+     *
+     * @var File
+     */
+    private $thumbnailFile;
+
+    /**
+     * @ORM\Column(type="string", length=255)
+     *
+     * @var string
+     */
+    private $thumbnailName;
+
+    /**
+     * NOTE: This is not a mapped field of entity metadata, just a simple property.
+     *
+     * @Vich\UploadableField(mapping="musica_preview", fileNameProperty="previewName")
+     *
+     * @var File
+     */
+    private $previewFile;
+
+    /**
+     * @ORM\Column(type="string", length=255)
+     *
+     * @var string
+     */
+    private $previewName;
+
+    /**
+     * @ORM\Column(type="datetime")
+     *
+     * @var \DateTime
+     */
+    private $updatedAt;
+
+    /**
+     * If manually uploading a file (i.e. not using Symfony Form) ensure an instance
+     * of 'UploadedFile' is injected into this setter to trigger the  update. If this
+     * bundle's configuration parameter 'inject_on_load' is set to 'true' this setter
+     * must be able to accept an instance of 'File' as the bundle will inject one here
+     * during Doctrine hydration.
+     *
+     * @param File|\Symfony\Component\HttpFoundation\File\UploadedFile $sonido
+     *
+     * @return Cancion
+     */
+    public function setSonidoFile(File $sonido = null)
+    {
+        $this->sonidoFile = $sonido;
+
+        if ($sonido) {
+            // It is required that at least one field changes if you are using doctrine
+            // otherwise the event listeners won't be called and the file is lost
+            $this->updatedAt = new \DateTime('now');
+        }
+
+        return $this;
+    }
+
+    /**
+     * @return File
+     */
+    public function getsonidoFile()
+    {
+        return $this->sonidoFile;
+    }
+
+    /**
+     * @param string $sonidoName
+     *
+     * @return Cancion
+     */
+    public function setSonidoName($sonidoName)
+    {
+        $this->sonidoName = $sonidoName;
+
+        return $this;
+    }
+
+    /**
+     * @return string
+     */
+    public function getSonidoName()
+    {
+        return $this->sonidoName;
+    }
+
+    /**
+     *
+     * @param File|\Symfony\Component\HttpFoundation\File\UploadedFile $thumbnail
+     *
+     * @return Cancion
+     */
+    public function setThumbnailFile(File $thumbnail = null)
+    {
+        $this->sonidoFile = $thumbnail;
+
+        if ($thumbnail) {
+            // It is required that at least one field changes if you are using doctrine
+            // otherwise the event listeners won't be called and the file is lost
+            $this->updatedAt = new \DateTime('now');
+        }
+
+        return $this;
+    }
+
+    /**
+     * @return File
+     */
+    public function getThumbnailFile()
+    {
+        return $this->thumbnailFile;
+    }
+
+    /**
+     * @param string $thumbnailName
+     *
+     * @return Cancion
+     */
+    public function setThumbnailName($thumbnailName)
+    {
+        $this->thumbnailName = $thumbnailName;
+
+        return $this;
+    }
+
+    /**
+     * @return string
+     */
+    public function getThumbnailName()
+    {
+        return $this->thumbnailName;
+    }
+
+    /**
+     *
+     * @param File|\Symfony\Component\HttpFoundation\File\UploadedFile $preview
+     *
+     * @return Cancion
+     */
+    public function setPreviewFile(File $preview = null)
+    {
+        $this->previewFile = $preview;
+
+        if ($preview) {
+            // It is required that at least one field changes if you are using doctrine
+            // otherwise the event listeners won't be called and the file is lost
+            $this->updatedAt = new \DateTime('now');
+        }
+
+        return $this;
+    }
+
+    /**
+     * @return File
+     */
+    public function getPreviewFile()
+    {
+        return $this->previewFile;
+    }
+
+    /**
+     * @param string $previewName
+     *
+     * @return Cancion
+     */
+    public function setpreviewName($previewName)
+    {
+        $this->previewName = $previewName;
+
+        return $this;
+    }
+
+    /**
+     * @return string
+     */
+    public function getPreviewName()
+    {
+        return $this->previewName;
+    }
+
+    // </VichUploader>
 
     /**
      * Get id
